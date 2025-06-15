@@ -125,27 +125,6 @@ HackToolBox/
 
 This project is licensed under the MIT License. Use these tools responsibly and only on systems you have permission to test.
 ```
-
-## Key Changes:
-
-### port_scanner.py
-- Uses Python's `nmap` module instead of command-line execution
-- Implements proper error handling
-- Formats results in a human-readable table
-- Accepts both IP addresses and domain names
-- Allows custom port ranges
-- Includes detailed comments for maintainability
-
-### README.md
-- Translated to English
-- Added Python nmap library installation step
-- Improved troubleshooting section
-- Added security best practices
-- Enhanced installation instructions
-- Clarified usage examples
-- Added project structure details
-- Included license information
-
 To use the port scanner:
 1. Install required dependencies:
 ```bash
